@@ -9,7 +9,7 @@ In 2016 I created my first **ecommerce** and I had my first contact with Web Ana
 In my personal projects I was always looking to bring some kind of value for my personal business. For that reason, most of my projects are related to websites informations, predictions or insights.
 The projects are the following:  
 
-#### **Google Ads - Search Queries Clustering**
+### **Google Ads - Search Queries Clustering**
 
 * Tested 4 different cluster algos to choose and label the **Search Queries** with the most meaningful cluster model to help online businesses to reduce costs in their campaigns.
 * The data was exported from **Google Analytics**.
@@ -23,7 +23,9 @@ The projects are the following:
 <img src="PORTF-IMG/CL/polar-plot.png" width="200" > 
 </p>
 
-##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering) 
+##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+<br/>
+<br/>
 #### **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
 
 * Created a **Sentiment Analysis** with **Deep Learning** to recognise a sentiment in a text.
