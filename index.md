@@ -1,31 +1,41 @@
-## Erick Portfolio
+## **Erick Portfolio**
 
-### About Me
+### **About Me**
 
-In 2016 I created my first e-commerce and I had my first contact with Web Analysis. Searching hot to bring more users for my website I got to know pay-per-click advertising and I became a Google Partner specialist on it. So, I created the bloco-b that started providing PPC services and web analysis all over Brazil. Now, I am getting into Data Science and Machine Learning looking for better results for the clients of bloco-b.
+In 2016 I created my first **ecommerce** and I had my first contact with Web Analysis. Searching hot to bring more users for my website I got to know pay-per-click advertising and I became a Google Partner specialist on it. So, I created the **bloco-b** that started providing **PPC** services and web analysis all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
 
-### Personal Projects
+### **Personal Projects**
 
 In my personal projects I was always looking to bring some kind of value for my personal business. For that reason, most of my projects are related to websites informations, predictions or insights.
 The projects are the following:  
 
-#### Google Ads - Search Queries Clustering
+#### **Google Ads - Search Queries Clustering**
 
-* Tested 4 different cluster algos to choose and label the Search Queries with the most meaningful cluster model to help online businesses to reduce costs in their campaigns.
+* Tested 4 different cluster algos to choose and label the **Search Queries** with the most meaningful cluster model to help online businesses to reduce costs in their campaigns.
 * The data was exported from **Google Analytics**.
 * Preprocessed the data before de modeling analysing the correlation of the features and normalizing them.
-* Specified the number of clusters using silhouette score for each of the cluster algos.
+* Specified the number of clusters using **silhouette score** for each of the cluster algos.
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
 
-#### Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews
+<p align="center">
+<img src="PORTF-IMG/CL/scatter-plot.png" width="250" > 
+<img src="PORTF-IMG/CL/3d-plot.png" width="400" > 
+<img src="PORTF-IMG/CL/polar-plot.png" width="250" > 
+</p>
 
-* Created a Sentiment Analysis with Deep Learning to recognise a sentiment in a text.
+#### **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
+
+* Created a **Sentiment Analysis** with **Deep Learning** to recognise a sentiment in a text.
 * Scraped over 3000 reviews for **Google Play Store** and **App Store** using APIs 
 * Built a pipeline that **text preprocessing** the reviews and to bring them to  a form that is predictable and analyzable for the **neural network**.
 * Converted text inputs into embedded vectors using Global Vectors For Word (**GloVe**)
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 
-#### Google Analytics API - Ecommerce - Exploratory Data Analysis
+<p align="center">
+<img src="PP-BA-IMG/heat-map.png" width="500" > 
+</p>
+
+#### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 
 * Was built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
 * The data was extracted using the **Google Analytics API**.
@@ -33,7 +43,11 @@ The projects are the following:
 * Using descriptive statistics we are going to present inferences about of each traffic medium
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
 
-#### Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor
+<p align="center">
+<img src="PP-BA-IMG/heat-map.png" width="500" > 
+</p>
+
+#### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
 
 * **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
 * Four functions were built to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
@@ -41,40 +55,19 @@ The projects are the following:
 * Then, the main function was built  that tested all these variations into three different classification algos: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * Using **Hyperopt** i will tune the best model found by the previous function of each traffic medium and plot the feature importance and the best decision tree.
 
-#### Data Cleaning - Price Predictor - Brasília Apartments
+<p align="center">
+<img src="PP-BA-IMG/heat-map.png" width="500" > 
+</p>
+
+#### **Data Cleaning - Price Predictor - Brasília Apartments**
 
 * Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
 * **Scraped** over 3000 apartments for sale from Vila Real using **python** and **selenium**
 * Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
+<p align="center">
+<img src="PP-BA-IMG/heat-map.png" width="500" > 
+</p>
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/varelaerick/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
