@@ -18,9 +18,9 @@ The projects are the following:
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
 
 <p align="center">
-<img src="PORTF-IMG/CL/scatter-plot.png" width="250" > 
-<img src="PORTF-IMG/CL/3d-plot.png" width="400" > 
-<img src="PORTF-IMG/CL/polar-plot.png" width="250" > 
+<img src="PORTF-IMG/CL/scatter-plot.png" width="200" > 
+<img src="PORTF-IMG/CL/3d-plot.png" width="370" > 
+<img src="PORTF-IMG/CL/polar-plot.png" width="300" > 
 </p>
 
 #### **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
