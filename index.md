@@ -1,10 +1,14 @@
-### **About Me**
+<br/>
+<br/>
+<br/>
+<br/>
+## **About Me**
 
 In 2016 I created my first **ecommerce** and I had my first contact with Web Analysis. Searching hot to bring more users for my website I got to know pay-per-click advertising and I became a Google Partner specialist on it. So, I created the **bloco-b** that started providing **PPC** services and web analysis all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
 <br/>
 <br/>
 
-### **Personal Projects**
+## **Personal Projects**
 
 In my personal projects I was always looking to bring some kind of value for my personal business. For that reason, most of my projects are related to websites informations, predictions or insights.
 The projects are the following:  
@@ -90,10 +94,9 @@ The projects are the following:
 <img src="PORTF-IMG/BC/decision_tree.png" width="200" > 
 </p>
 
-<br/>
-<br/>
-
 ###### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
+<br/>
+<br/>
 
 ## **Data Cleaning - Price Predictor - Brasília Apartments**
 
