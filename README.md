@@ -1,1 +1,2 @@
-# Portfolio
+# Erick Portfolio
+Personal Data Science Projects
