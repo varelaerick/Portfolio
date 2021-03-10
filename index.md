@@ -21,7 +21,7 @@ The projects are the following:
 <img src="PORTF-IMG/CL/polar-plot.png" width="200" > 
 </p>
 
-##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+###### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 
 
 ### **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
@@ -46,9 +46,8 @@ The projects are the following:
 <img src="PORTF-IMG/SA/neu.png" width="210" > 
 </p>
 
-##### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
-<br/>
-<br/>
+###### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+
 
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 
@@ -59,8 +58,15 @@ The projects are the following:
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
 
 <p align="center">
-<img src="PP-BA-IMG/heat-map.png" width="500" > 
+<img src="PORTF-IMG/EDA/Table.png" width="300" > 
 </p>
+<p align="center">
+<img src="PORTF-IMG/EDA/Sales Day.png" width="400" >
+<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" > 
+</p>
+
+###### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
+
 
 ### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
 
@@ -70,9 +76,16 @@ The projects are the following:
 * Then, the main function was built  that tested all these variations into three different classification algos: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * Using **Hyperopt** i will tune the best model found by the previous function of each traffic medium and plot the feature importance and the best decision tree.
 
+
 <p align="center">
-<img src="PP-BA-IMG/heat-map.png" width="500" > 
+<img src="PORTF-IMG/BC/Best Methods.png" width="300" > 
 </p>
+<p align="center">
+<img src="PORTF-IMG/BC/feature-importance.png" width="400" >
+<img src="PORTF-IMG/BC/decision_tree.png" width="400" > 
+</p>
+
+###### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 
 ### **Data Cleaning - Price Predictor - Brasília Apartments**
 
@@ -82,7 +95,8 @@ The projects are the following:
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
 <p align="center">
-<img src="PP-BA-IMG/heat-map.png" width="500" > 
+<img src="PORTF-IMG/PP/folium-map.png" width="500" > 
 </p>
 
+###### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 
