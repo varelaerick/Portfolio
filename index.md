@@ -107,7 +107,7 @@ The projects are the following:
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
 <p align="center">
-<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image3> 
+<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
