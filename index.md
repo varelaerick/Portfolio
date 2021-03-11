@@ -50,11 +50,9 @@ The projects are the following:
 </p>
 
 <p align="center">
-<img src="PORTF-IMG/SA/pos.png" width="210" class=image4>
-</p>
-<p align="center">
-<img src="PORTF-IMG/SA/neg.png" width="210" class=image4> 
-<img src="PORTF-IMG/SA/neu.png" width="210" class=image4> 
+<img src="PORTF-IMG/SA/pos.png" width="210" class=image5>
+<img src="PORTF-IMG/SA/neg.png" width="210" class=image5> 
+<img src="PORTF-IMG/SA/neu.png" width="210" class=image5> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -107,7 +105,7 @@ The projects are the following:
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
 <p align="center">
-<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image2> 
+<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image3> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
