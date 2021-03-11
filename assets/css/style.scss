@@ -2,9 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-div {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+.wrapper{ 
+  width:1000px;
+  margin: 0 auto;
 }
+section {
+    width: 650px;
+    float: right;
+    padding-bottom: 50px;
+}
+;
