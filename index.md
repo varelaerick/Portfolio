@@ -23,7 +23,7 @@ The projects are the following:
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
 
 <p align="center">
-<img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image1 >
+<img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image2 >
 </p>
 <p align="center">
 <img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image2 >
