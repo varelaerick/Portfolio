@@ -22,9 +22,9 @@ The projects are the following:
 
 <p align="center">
 <img src="PORTF-IMG/CL/3d-plot.png" width="300" class="image2" >
-<img src="PORTF-IMG/CL/polar-plot.png" width="200" class="image2"  >
 </p>
 <p align="center">
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class="image1"  >
 <img src="PORTF-IMG/CL/scatter-plot.png" width="125" class='image1' >  
 </p>
 
@@ -48,7 +48,9 @@ The projects are the following:
 </p>
 
 <p align="center">
-<img src="PORTF-IMG/SA/pos.png" width="210" > 
+<img src="PORTF-IMG/SA/pos.png" width="210" >
+</p>
+<p align="center">
 <img src="PORTF-IMG/SA/neg.png" width="210" > 
 <img src="PORTF-IMG/SA/neu.png" width="210" > 
 </p>
