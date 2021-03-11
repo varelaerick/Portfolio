@@ -13,9 +13,9 @@ In 2016 I created my first **ecommerce** and I had my first contact with Web Ana
 In my personal projects I was always looking to bring some kind of value for my personal business. For that reason, most of my projects are related to websites informations, predictions or insights.
 The projects are the following:
 <br/>
-
+<br/>
 ## **Google Ads - Search Queries Clustering**
-
+<br/>
 * Tested 4 different cluster algos to choose and label the **Search Queries** with the most meaningful cluster model based on the users **online behavior** to help online businesses to reduce costs in their campaigns.
 * The data was exported from **Google Analytics**.
 * Preprocessed the data before de modeling analysing the correlation of the features and normalizing them.
@@ -31,10 +31,11 @@ The projects are the following:
 <img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image4 >
 </p>
 
-#### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 <br/>
 
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
+<br/>
 
 * Created a **Sentiment Analysis** with **Deep Learning** to recognise a sentiment in a text.
 * Scraped over 3000 reviews for **Google Play Store** and **App Store** using APIs 
@@ -56,10 +57,11 @@ The projects are the following:
 <img src="PORTF-IMG/SA/neu.png" width="210" class=image6> 
 </p>
 
-####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+#####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 <br/>
 
 ## **Google Analytics API - Ecommerce - Exploratory Data Analysis**
+<br/>
 
 * Was built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
 * The data was extracted using the **Google Analytics API**.
@@ -75,11 +77,11 @@ The projects are the following:
 <img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
 </p>
 
-#### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
+##### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
 <br/>
 
 ## **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
-
+<br/>
 * **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
 * Four functions were built to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
  * Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample** and **Tomek Links**. 
@@ -92,14 +94,14 @@ The projects are the following:
 <img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image6> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image5> 
+<img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image6> 
 </p>
 
-#### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
+##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 <br/>
 
 ## **Data Cleaning - Price Predictor - Brasília Apartments**
-
+<br/>
 * Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
 * **Scraped** over 3000 apartments for sale from Vila Real using **python** and **selenium**
 * Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
@@ -109,5 +111,5 @@ The projects are the following:
 <img src="PORTF-IMG/PP/folium-map.png" width="500" class=image3> 
 </p>
 
-#### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
+##### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 <br/>
