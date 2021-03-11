@@ -50,11 +50,11 @@ The projects are the following:
 </p>
 
 <p align="center">
-<img src="PORTF-IMG/SA/pos.png" width="210" class=image2>
+<img src="PORTF-IMG/SA/pos.png" width="210" class=image3>
 </p>
 <p align="center">
-<img src="PORTF-IMG/SA/neg.png" width="210" class=image2> 
-<img src="PORTF-IMG/SA/neu.png" width="210" class=image2> 
+<img src="PORTF-IMG/SA/neg.png" width="210" class=image3> 
+<img src="PORTF-IMG/SA/neu.png" width="210" class=image3> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
