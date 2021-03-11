@@ -2,6 +2,8 @@
 
 In 2016 I created my first **ecommerce** and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know pay-per-click advertising and I became a Google Partner specialist on it. So, I created the **bloco-b** that started providing **PPC** services and web analysis all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
 <br/>
+<br/>
+<br/>
 
 ## **Personal Projects**
 
@@ -17,9 +19,9 @@ The projects are the following:
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
 
 <p align="center">
-<img src="PORTF-IMG/CL/3d-plot.png" width="300" >
-<img src="PORTF-IMG/CL/polar-plot.png" width="200" > 
-<img src="PORTF-IMG/CL/scatter-plot.png" width="125" class='image1' >  
+<img src="PORTF-IMG/CL/3d-plot.png" width="300" class="image2" >
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class="image2"  > 
+<img src="PORTF-IMG/CL/scatter-plot.png" width="125" class='image2' >  
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
