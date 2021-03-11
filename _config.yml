@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal 
 logo: "PORTF-IMG/photo.png"
-title: "Erick Portfolio" 
+title: "Erick Portfolio"
+description: "Data Science Personal Projects"
 google_analytics: "UA-107959153-1"
