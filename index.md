@@ -11,7 +11,8 @@ In 2016 I created my first **ecommerce** and I had my first contact with Web Ana
 # **Personal Projects**
 
 In my personal projects I was always looking to bring some kind of value for my personal business. For that reason, most of my projects are related to websites informations, predictions or insights.
-The projects are the following:  
+The projects are the following:
+<br/>
 
 ## **Google Ads - Search Queries Clustering**
 
