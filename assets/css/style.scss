@@ -2,8 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
-
-.archive {
-   padding-right: 10;
-  }
+@media screen and (min-width: 800px) {
+    
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+.section {
+    width: 700px;
+    float: right;
+    padding-bottom: 50px;
+}
 }
