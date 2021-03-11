@@ -34,7 +34,7 @@ The projects are the following:
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 
 <p align="center">
-<img src="PORTF-IMG/SA/n-gram.png" width="125", class="image1" >
+<img src="PORTF-IMG/SA/n-gram.png" width="125" class="image1" >
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/BC/Best Methods.png" width="150", class="image1" > 
+<img src="PORTF-IMG/BC/Best Methods.png" width="150" class="image1" > 
 </p>
 <p align="center">
 <img src="PORTF-IMG/BC/feature-importance.png" width="200" >
