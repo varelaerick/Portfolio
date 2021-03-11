@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+.crop{
+        height: 20px;
+        overflow: hidden;
+    }
+}
 @media screen and (min-width: 800px) {
     
 .wrapper {
