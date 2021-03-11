@@ -15,9 +15,7 @@ The projects are the following:
 <br/>
 <br/>
 ### **Google Ads - Search Queries Clustering**
-<br/>
 ##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
-<br/>
 * Tested 4 different cluster algos to choose and label the **Search Queries** with the most meaningful cluster model based on the users **online behavior** to help online businesses to reduce costs in their campaigns.
 * The data was exported from **Google Analytics**.
 * Preprocessed the data before de modeling analysing the correlation of the features and normalizing them.
@@ -36,9 +34,7 @@ The projects are the following:
 <br/>
 
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
-<br/>
 #####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
-<br/>
 * Created a **Sentiment Analysis** with **Deep Learning** to recognise a sentiment in a text.
 * Scraped over 3000 reviews for **Google Play Store** and **App Store** using APIs 
 * Built a pipeline that **text preprocessing** the reviews and to bring them to  a form that is predictable and analyzable for the **neural network**.
@@ -62,10 +58,7 @@ The projects are the following:
 
 
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
-<br/>
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
-<br/>
-
 * Was built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
 * The data was extracted using the **Google Analytics API**.
 * Splitting the data set into traffic mediums and running the functions though each data set to explore the transactions, getinsights of the buyers profile, buyer behavior and checking the correlation between our features and transaction, we are going to have a good understanding of them.
@@ -82,9 +75,7 @@ The projects are the following:
 
 
 ### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
-<br/>
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
-<br/>
 * **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
 * Four functions were built to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
  * Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample** and **Tomek Links**. 
@@ -100,9 +91,7 @@ The projects are the following:
 
 
 ### **Data Cleaning - Price Predictor - Brasília Apartments**
-<br/>
 ##### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
-<br/>
 * Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
 * **Scraped** over 3000 apartments for sale from Vila Real using **python** and **selenium**
 * Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
