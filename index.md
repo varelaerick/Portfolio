@@ -18,7 +18,7 @@ The projects are the following:
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
 
 <p align="center">
-<img src="PORTF-IMG/CL/scatter-plot.png" width="125" > 
+<img1 src="PORTF-IMG/CL/scatter-plot.png" width="125" > 
 <img src="PORTF-IMG/CL/3d-plot.png" width="200" > 
 <img src="PORTF-IMG/CL/polar-plot.png" width="200" > 
 </p>
@@ -36,7 +36,7 @@ The projects are the following:
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 
 <p align="center">
-<img src="PORTF-IMG/SA/n-gram.png" width="125" >
+<img1 src="PORTF-IMG/SA/n-gram.png" width="125" >
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/BC/Best Methods.png" width="150" > 
+<img1 src="PORTF-IMG/BC/Best Methods.png" width="150" > 
 </p>
 <p align="center">
 <img src="PORTF-IMG/BC/feature-importance.png" width="200" >
