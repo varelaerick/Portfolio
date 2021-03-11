@@ -90,11 +90,8 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image6>
-<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image6> 
-</p>
-<p align="center">
-<img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image6> 
+<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image5>
+<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image5> 
 </p>
 
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
