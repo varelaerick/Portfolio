@@ -14,6 +14,7 @@ In my personal projects I was always looking to bring some kind of value for my 
 The projects are the following:
 <br/>
 <br/>
+
 ### **Google Ads - Search Queries Clustering**
 ##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 * Tested 4 different cluster algos to choose and label the **Search Queries** with the most meaningful cluster model based on the users **online behavior** to help online businesses to reduce costs in their campaigns.
@@ -32,7 +33,7 @@ The projects are the following:
 </p>
 
 <br/>
-
+<br/>
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
 #####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 * Created a **Sentiment Analysis** with **Deep Learning** to recognise a sentiment in a text.
@@ -55,8 +56,8 @@ The projects are the following:
 <img src="PORTF-IMG/SA/neu.png" width="210" class=image4> 
 </p>
 
-
-
+<br/>
+<br/>
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
 * Was built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
@@ -73,7 +74,8 @@ The projects are the following:
 <img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
 </p>
 
-
+<br/>
+<br/>
 ### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 * **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
@@ -88,8 +90,8 @@ The projects are the following:
 <img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image1> 
 </p>
 
-
-
+<br/>
+<br/>
 ### **Data Cleaning - Price Predictor - Brasília Apartments**
 ##### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 * Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
@@ -100,4 +102,5 @@ The projects are the following:
 <p align="center">
 <img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
 </p>
-
+<br/>
+<br/>
