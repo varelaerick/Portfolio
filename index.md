@@ -92,8 +92,8 @@ The projects are the following:
 <img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image5> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image5>
-<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image5> 
+<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image6>
+<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image6> 
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
@@ -107,7 +107,7 @@ The projects are the following:
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
 <p align="center">
-<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
+<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image2> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
