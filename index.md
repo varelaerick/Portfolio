@@ -24,7 +24,7 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image5 >
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image4 >
 <img src="PORTF-IMG/CL/scatter-plot.png" width="125" class=image6 >  
 </p>
 <p align="center">
@@ -88,8 +88,8 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image5>
-<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image5> 
+<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image6>
+<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image6> 
 </p>
 <p align="center">
 <img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image6> 
