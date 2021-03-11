@@ -28,7 +28,7 @@ The projects are the following:
 <img src="PORTF-IMG/CL/scatter-plot.png" width="125" class=image4 >  
 </p>
 <p align="center">
-<img src="PORTF-IMG/CL/3d_plot.gif" width="300" class=image2 >
+![]("PORTF-IMG/CL/3d_plot.gif" width="300" class=image2 )
 </p>
 
 ##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
