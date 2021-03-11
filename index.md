@@ -31,7 +31,7 @@ The projects are the following:
 <img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image4 >
 </p>
 
-###### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+#### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 <br/>
 
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
@@ -56,7 +56,7 @@ The projects are the following:
 <img src="PORTF-IMG/SA/neu.png" width="210" class=image6> 
 </p>
 
-###### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 <br/>
 
 ## **Google Analytics API - Ecommerce - Exploratory Data Analysis**
@@ -75,7 +75,7 @@ The projects are the following:
 <img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
 </p>
 
-###### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
+#### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
 <br/>
 
 ## **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
@@ -95,7 +95,7 @@ The projects are the following:
 <img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image5> 
 </p>
 
-###### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
+#### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 <br/>
 
 ## **Data Cleaning - Price Predictor - Brasília Apartments**
@@ -109,5 +109,5 @@ The projects are the following:
 <img src="PORTF-IMG/PP/folium-map.png" width="500" class=image3> 
 </p>
 
-###### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
+#### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 <br/>
