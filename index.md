@@ -26,7 +26,7 @@ The projects are the following:
 <img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image2 >
 </p>
 <p align="center">
-<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image2 >
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image6 >
 <img src="PORTF-IMG/CL/scatter-plot.png" width="125" class=image3 >  
 </p>
 
@@ -107,7 +107,7 @@ The projects are the following:
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
 <p align="center">
-<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
+<img src="PORTF-IMG/PP/folium-map.png" width="500" class=imag5> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
