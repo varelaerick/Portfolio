@@ -73,7 +73,7 @@ The projects are the following:
 </p>
 <p align="center">
 <img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image2>
-<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
+<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image4> 
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
