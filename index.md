@@ -26,7 +26,7 @@ The projects are the following:
 <img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image2 >
 </p>
 <p align="center">
-<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image2 >
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image3 >
 <img src="PORTF-IMG/CL/scatter-plot.png" width="125" class=image3 >  
 </p>
 
