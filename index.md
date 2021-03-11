@@ -3,7 +3,7 @@
 
 # **About Me**
 
-In 2016 I created my first **ecommerce** and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know pay-per-click advertising and I became a Google Partner specialist on it. So, I created the **bloco-b** that started providing **PPC** services and web analysis all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
+In 2016 I created my first **ecommerce** and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know pay-per-click advertising and I became a **Google Partner** specialist on it. So, I created the **bloco-b** that started providing **PPC** services and **web analysis** all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
 <br/>
 <br/>
 <br/>
@@ -24,11 +24,11 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image4 >
-<img src="PORTF-IMG/CL/scatter-plot.png" width="125" class=image6 >  
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image2 >
+<img src="PORTF-IMG/CL/scatter-plot.png" width="125" class=image4 >  
 </p>
 <p align="center">
-<img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image4 >
+<img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image2 >
 </p>
 
 ##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -44,17 +44,17 @@ The projects are the following:
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 
 <p align="center">
-<img src="PORTF-IMG/SA/n-gram.png" width="125"  class=image4>
+<img src="PORTF-IMG/SA/n-gram.png" width="125"  class=image2>
 </p>
 
 <p align="center">
-<img src="PORTF-IMG/SA/wordclound.png" width="300" class=image3> 
+<img src="PORTF-IMG/SA/wordclound.png" width="300" class=image1> 
 </p>
 
 <p align="center">
-<img src="PORTF-IMG/SA/pos.png" width="210" class=image6>
-<img src="PORTF-IMG/SA/neg.png" width="210" class=image6> 
-<img src="PORTF-IMG/SA/neu.png" width="210" class=image6> 
+<img src="PORTF-IMG/SA/pos.png" width="210" class=image4>
+<img src="PORTF-IMG/SA/neg.png" width="210" class=image4> 
+<img src="PORTF-IMG/SA/neu.png" width="210" class=image4> 
 </p>
 
 #####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -70,10 +70,10 @@ The projects are the following:
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
 
 <p align="center">
-<img src="PORTF-IMG/EDA/Table.png" width="300" class=image4> 
+<img src="PORTF-IMG/EDA/Table.png" width="300" class=image2> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image4>
+<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image2>
 <img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
 </p>
 
@@ -90,8 +90,8 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image3>
-<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image3> 
+<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image1>
+<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image1> 
 </p>
 
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
@@ -105,7 +105,7 @@ The projects are the following:
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
 <p align="center">
-<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image3> 
+<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
 </p>
 
 ##### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
