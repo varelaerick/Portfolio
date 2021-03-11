@@ -1,20 +1,20 @@
 <br/>
 <br/>
 
-# **About Me**
+## **About Me**
 
 In 2016 I created my first **ecommerce** and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know pay-per-click advertising and I became a **Google Partner** specialist on it. So, I created the **bloco-b** that started providing **PPC** services and **web analysis** all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
 <br/>
 <br/>
 <br/>
 
-# **Personal Projects**
+## **Personal Projects**
 
 In my personal projects I was always looking to bring some kind of value for my personal business. For that reason, most of my projects are related to websites informations, predictions or insights.
 The projects are the following:
 <br/>
 <br/>
-## **Google Ads - Search Queries Clustering**
+### **Google Ads - Search Queries Clustering**
 <br/>
 * Tested 4 different cluster algos to choose and label the **Search Queries** with the most meaningful cluster model based on the users **online behavior** to help online businesses to reduce costs in their campaigns.
 * The data was exported from **Google Analytics**.
@@ -60,7 +60,7 @@ The projects are the following:
 #####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 <br/>
 
-## **Google Analytics API - Ecommerce - Exploratory Data Analysis**
+### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 <br/>
 
 * Was built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
@@ -80,7 +80,7 @@ The projects are the following:
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
 <br/>
 
-## **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
+### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
 <br/>
 * **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
 * Four functions were built to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
@@ -97,7 +97,7 @@ The projects are the following:
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 <br/>
 
-## **Data Cleaning - Price Predictor - Brasília Apartments**
+### **Data Cleaning - Price Predictor - Brasília Apartments**
 <br/>
 * Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
 * **Scraped** over 3000 apartments for sale from Vila Real using **python** and **selenium**
