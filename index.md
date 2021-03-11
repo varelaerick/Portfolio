@@ -23,11 +23,11 @@ The projects are the following:
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
 
 <p align="center">
-<img src="PORTF-IMG/CL/3d-plot.png" width="300"  >
+<img src="PORTF-IMG/CL/3d-plot.png" width="300" class=image1 >
 </p>
 <p align="center">
-<img src="PORTF-IMG/CL/polar-plot.png" width="200"  >
-<img src="PORTF-IMG/CL/scatter-plot.png" width="125" >  
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image2 >
+<img src="PORTF-IMG/CL/scatter-plot.png" width="125" class=image2 >  
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -42,19 +42,19 @@ The projects are the following:
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 
 <p align="center">
-<img src="PORTF-IMG/SA/n-gram.png" width="125"  >
+<img src="PORTF-IMG/SA/n-gram.png" width="125"  class=image1>
 </p>
 
 <p align="center">
-<img src="PORTF-IMG/SA/wordclound.png" width="300" > 
+<img src="PORTF-IMG/SA/wordclound.png" width="300" class=image1> 
 </p>
 
 <p align="center">
-<img src="PORTF-IMG/SA/pos.png" width="210" >
+<img src="PORTF-IMG/SA/pos.png" width="210" class=image2>
 </p>
 <p align="center">
-<img src="PORTF-IMG/SA/neg.png" width="210" > 
-<img src="PORTF-IMG/SA/neu.png" width="210" > 
+<img src="PORTF-IMG/SA/neg.png" width="210" class=image2> 
+<img src="PORTF-IMG/SA/neu.png" width="210" class=image2> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -69,11 +69,11 @@ The projects are the following:
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
 
 <p align="center">
-<img src="PORTF-IMG/EDA/Table.png" width="300"> 
+<img src="PORTF-IMG/EDA/Table.png" width="300" class=image2> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/EDA/Sales Day.png" width="400" >
-<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" > 
+<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image2>
+<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
@@ -89,11 +89,11 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/BC/Best Methods.png" width="150" > 
+<img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image2> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/BC/feature-importance.png" width="200" >
-<img src="PORTF-IMG/BC/decision_tree.png" width="200" > 
+<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image1>
+<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image1> 
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
@@ -107,7 +107,7 @@ The projects are the following:
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 
 <p align="center">
-<img src="PORTF-IMG/PP/folium-map.png" width="500" > 
+<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
 </p>
 
 ###### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
