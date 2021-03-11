@@ -69,11 +69,11 @@ The projects are the following:
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
 
 <p align="center">
-<img src="PORTF-IMG/EDA/Table.png" width="300" class=image3> 
+<img src="PORTF-IMG/EDA/Table.png" width="300" class=image4> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image3>
-<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image5> 
+<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image4>
+<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
@@ -92,8 +92,8 @@ The projects are the following:
 <img src="PORTF-IMG/BC/Best Methods.png" width="150" class=image4> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image4>
-<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image4> 
+<img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image5>
+<img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image5> 
 </p>
 
 ###### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
