@@ -34,7 +34,7 @@ The projects are the following:
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 
 <p align="center">
-<img src="PORTF-IMG/SA/n-gram.png" width="125" >
+<img src="PORTF-IMG/SA/n-gram.png" width="125", class="image1" >
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ The projects are the following:
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
 
 <p align="center">
-<img src="PORTF-IMG/EDA/Table.png" width="300" > 
+<img src="PORTF-IMG/EDA/Table.png" width="300"> 
 </p>
 <p align="center">
 <img src="PORTF-IMG/EDA/Sales Day.png" width="400" >
@@ -79,7 +79,7 @@ The projects are the following:
 
 
 <p align="center">
-<img src="PORTF-IMG/BC/Best Methods.png" width="150" > 
+<img src="PORTF-IMG/BC/Best Methods.png" width="150", class="image1" > 
 </p>
 <p align="center">
 <img src="PORTF-IMG/BC/feature-importance.png" width="200" >
