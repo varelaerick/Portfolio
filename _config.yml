@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: [Erick_Portfolio]
 
 ---
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"
 
 .archive {
   margin-top: 1em;
@@ -18,4 +18,17 @@ title: [Erick_Portfolio]
     width: calc(100% - #{$right-sidebar-width});
     #padding-right: $right-sidebar-width;
   }
-};
+}
+
+.page {
+  @include breakpoint($large) {
+    float: right;
+    width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-right: $right-sidebar-width-narrow;
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width});
+    padding-right: $right-sidebar-width;
+  }
+  ;
