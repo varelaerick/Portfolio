@@ -18,7 +18,7 @@ The projects are the following:
 
 <p align="center">
 <img src="PORTF-IMG/CL/scatter-plot.png" width="125" > 
-<img src="PORTF-IMG/CL/3d-plot.png" width="200" > 
+<img src="PORTF-IMG/CL/3d-plot.png" width="300" > 
 <img src="PORTF-IMG/CL/polar-plot.png" width="200" > 
 </p>
 
