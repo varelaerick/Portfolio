@@ -1,4 +1,4 @@
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"
 
 .archive {
   margin-top: 1em;
@@ -21,3 +21,4 @@
   @include breakpoint($x-large) {
     padding-right: 10;
   }
+;
