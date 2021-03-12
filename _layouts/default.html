@@ -25,7 +25,16 @@
         <p align="center">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p align="center" class="view">
+          <!-- The icon bar -->
+        <div class="icon-bar">
+          <a src="/PORTF-IMG/icons/kaggle.png" href="https://www.kaggle.com/erickvarela"</a>
+          <a src="/PORTF-IMG/icons/github.png" href="https://github.com/varelaerick" </a>
+          <a src="/PORTF-IMG/icons/bloco-b.png" href="https://bloco-b.com"</a>
+          <a src="" href="https://www.linkedin.com/in/erick-varela/"</a>
+          <a src="/PORTF-IMG/icons/email.png" href="mailto: contato@bloco-b.com" </a>
+        </div>
+        </p>
         {% endif %}
 
         {% if site.github.is_user_page %}
