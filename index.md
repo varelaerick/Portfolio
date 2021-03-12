@@ -23,7 +23,8 @@ The projects are the following:
 * Specified the number of clusters using **silhouette score** for each of the cluster algos.
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
 <br/>
-##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+<br/>
+#### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 
 <p align="center">
 <img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image2 >
@@ -43,7 +44,8 @@ The projects are the following:
 * Converted text inputs into embedded vectors using Global Vectors For Word (**GloVe**)
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 <br/>
-#####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+<br/>
+#### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 <p align="center">
 <img src="PORTF-IMG/SA/n-gram.png" width="125"  class=image2>
 </p>
@@ -68,7 +70,8 @@ The projects are the following:
 * Using descriptive statistics we are going to present inferences about of each traffic medium
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
 <br/>
-##### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
+<br/>
+#### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
 <p align="center">
 <img src="PORTF-IMG/EDA/Table.png" width="300" class=image2> 
 </p>
@@ -87,7 +90,8 @@ The projects are the following:
 * Then, the main function was built  that tested all these variations into three different classification algos: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * Using **Hyperopt** i will tune the best model found by the previous function of each traffic medium and plot the feature importance and the best decision tree.
 <br/>
-##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
+<br/>
+#### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 
 <p align="center">
 <img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image1>
