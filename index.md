@@ -22,6 +22,7 @@ The projects are the following:
 * Preprocessed the data before de modeling analysing the correlation of the features and normalizing them.
 * Specified the number of clusters using **silhouette score** for each of the cluster algos.
 * Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
+<br/>
 ##### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 
 <p align="center">
@@ -41,6 +42,7 @@ The projects are the following:
 * Built a pipeline that **text preprocessing** the reviews and to bring them to  a form that is predictable and analyzable for the **neural network**.
 * Converted text inputs into embedded vectors using Global Vectors For Word (**GloVe**)
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
+<br/>
 #####  [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
 <p align="center">
 <img src="PORTF-IMG/SA/n-gram.png" width="125"  class=image2>
@@ -65,6 +67,7 @@ The projects are the following:
 * Splitting the data set into traffic mediums and running the functions though each data set to explore the transactions, getinsights of the buyers profile, buyer behavior and checking the correlation between our features and transaction, we are going to have a good understanding of them.
 * Using descriptive statistics we are going to present inferences about of each traffic medium
 * In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
+<br/>
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
 <p align="center">
 <img src="PORTF-IMG/EDA/Table.png" width="300" class=image2> 
@@ -83,6 +86,7 @@ The projects are the following:
  * Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample** and **Tomek Links**. 
 * Then, the main function was built  that tested all these variations into three different classification algos: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * Using **Hyperopt** i will tune the best model found by the previous function of each traffic medium and plot the feature importance and the best decision tree.
+<br/>
 ##### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 
 <p align="center">
@@ -98,6 +102,7 @@ The projects are the following:
 * **Scraped** over 3000 apartments for sale from Vila Real using **python** and **selenium**
 * Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
+<br/>
 ##### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 <p align="center">
 <img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
