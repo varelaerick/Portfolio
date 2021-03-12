@@ -3,7 +3,7 @@
 
 ## **About Me**
 
-In 2016 I created my first ecommerce and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know pay-per-click (PPC) advertising and I became a **Google Partner** specialist on it. So, I created the **bloco-b** that started providing **PPC** services and **web analysis** all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
+In 2016 I created my first ecommerce and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know pay-per-click (PPC) advertising and I became a **Google Partner** specialist on it. So, I created the **bloco-b** that started providing **PPC** services and **Web Analysis** all over Brazil. Now, I am getting into **Data Science** and **Machine Learning** looking for better results for the clients of **bloco-b**.
 <br/>
 <br/>
 <br/>
@@ -106,6 +106,7 @@ The projects are the following:
 * **Scraped** over 3000 apartments for sale from Vila Real using **python** and **selenium**
 * Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
 * Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
+<br/>
 <br/>
 #### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
 <p align="center">
