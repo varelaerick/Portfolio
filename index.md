@@ -3,14 +3,14 @@
 
 ## **About Me**
 
-In 2016 I created my first **ecommerce** and I had my first contact with **Web Analysis**. Searching how to bring more users for my website I got to know **Pay-Per-Click (PPC)** advertising and I became a **Google Partner** specialist on it. So, I created the **bloco-b** that started providing PPC services and Web Analysis all over Brazil. Now, I am getting into **Data Science** looking for better results for the clients of **bloco-b**.
+In 2016 I created my first **ecommerce** and I had my first contact with **Web Analysis**. Searching how to bring more users for my website I got to know **Pay-Per-Click (PPC)** advertising and I became a **Google Partner** specialist on it. So, I created the **bloco-b** that started providing PPC services and Web Analysis all over Brazil. Now, I am getting into **Data Science** and **Data Science** for challenges, new knowledge and great finds.
 <br/>
 <br/>
 <br/>
 
 ## **Personal Projects**
 
-In my personal projects I was always looking to bring some kind of value for my business. For that reason, most of my projects are related to websites informations, predictions or insights.
+In my personal projects I was always looking to bring some kind of value for my business. For that reason, most of my projects are related to websites data, predictions or insights.
 The projects are the following:
 <br/>
 <br/>
