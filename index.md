@@ -82,6 +82,20 @@ The projects are the following:
 
 <br/>
 <br/>
+### **Data Cleaning - Price Predictor - Brasília Apartments**
+
+* Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
+* **Scraped** over 3000 apartments for sale from Vila Real using **Python** and **Selenium**
+* Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
+* Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
+<br/>
+<br/>
+#### [Github Repositore](https://github.com/varelaerick/Price-Predictor-Bras-lia-Apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments)
+<p align="center">
+<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
+</p>
+<br/>
+<br/>
 ### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
 
 * **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
@@ -97,21 +111,7 @@ The projects are the following:
 <img src="PORTF-IMG/BC/feature-importance.png" width="200" class=image1>
 <img src="PORTF-IMG/BC/decision_tree.png" width="200" class=image1> 
 </p>
+<br/>
+<br/>
 
-<br/>
-<br/>
-### **Data Cleaning - Price Predictor - Brasília Apartments**
-
-* Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
-* **Scraped** over 3000 apartments for sale from Vila Real using **Python** and **Selenium**
-* Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
-* Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
-<br/>
-<br/>
-#### [Github Repositore](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
-<p align="center">
-<img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
-</p>
-<br/>
-<br/>
 
