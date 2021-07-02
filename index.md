@@ -45,7 +45,7 @@ The projects are the following:
 * Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
 <br/>
 <br/>
-#### [Github Repositore](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
+#### [Github Repositore](https://github.com/varelaerick/Sentiment-Analyse-Deep-Learn-Amazon-App) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app)
 <p align="center">
 <img src="PORTF-IMG/SA/n-gram.png" width="125"  class=image2>
 </p>
