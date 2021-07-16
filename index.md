@@ -66,7 +66,7 @@ The projects are the following:
 * I built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
 * The data was extracted using the **Google Analytics API**. and splitted based on the traffic medium of the website. 
 * With the analysis we are able to recognize patterns and differences between the traffic mediums.
-* Also find a hypotese to be teste.Maybe the Android users that are New Visitor are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
+* Also find a hypotese to be tested. Maybe the Android users that are New Visitor are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
 * The project was recently commented on Kaggle and the code needs a adjustments.
 
 <br/>
