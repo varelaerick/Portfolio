@@ -16,12 +16,11 @@ The projects are the following:
 <br/>
 
 ### **Google Ads - Search Queries Clustering**
-
-* Tested 4 different cluster algos to choose and label the **Search Queries** with the most meaningful cluster model based on the users **Online Behavior** to help online businesses to reduce costs in their campaigns.
-* The data was exported from **Google Analytics**.
-* Preprocessed the data before de modeling analysing the correlation of the features and normalizing them.
+* I tested 4 different cluster somethings to label the **Search Queries** based on the users Online Behavior to help online businesses to reduce costs in their campaigns.
+* The 4 different cluster somethings were: **K Means**, **Spectral Clustering**, **Agglomerative Clustering**, **Gaussian Mixture**.
 * Specified the number of clusters using **Silhouette Score** for each of the cluster algos.
-* Was tested the following cluster algos: **K Means, Spectral Clustering, Agglomerative Clustering, Gaussian Mixture.**
+* All of the algorithms show very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
+* The project is currently being deployed in a web application.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -38,11 +37,11 @@ The projects are the following:
 <br/>
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
 
-* Created a **Sentiment Analysis** with **Deep Learning** to recognise a sentiment in a text.
-* Scraped over 3000 reviews for **Google Play Store** and **App Store** using APIs 
-* Built a pipeline that **Text Preprocessing** the reviews and to bring them to  a form that is predictable and analyzable for the **Neural Network**.
-* Converted text inputs into embedded vectors using **Global Vectors** For Word (**GloVe**)
-* Built a sentiment analysis using keras modules **Model , Dense, LSTM** and **Embedding.**
+* Scraped over 3000 reviews for **Google Play Store** and **App Store** using APIs
+* Built a pipeline that Text Preprocessing to bring the reviews  to a form that is predictable and analyzable for the **Neural Network**.
+* Built a sentiment analysis using Keras modules **Model** , **Dense**, **LSTM** **and Embedding**.
+* Finally, I built a function that applies the pipeline for text preprocessing, classifies a comment with the model and returns if the comment is **Positive**, **Negative** **or Neutral**.
+* The result reached by my model in the test data set was - Loss 0.60 - Accuracy 0.74 - Prediction 0.75 - Recall 0.73 - F1-Score 074.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Sentiment-Analyse-Deep-Learn-Amazon-App) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app)
@@ -64,11 +63,12 @@ The projects are the following:
 <br/>
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 
-* Was built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
-* The data was extracted using the **Google Analytics API**.
-* Splitting the data set into traffic mediums and running the functions though each data set to explore the transactions, getinsights of the buyers profile, buyer behavior and checking the correlation between our features and transaction, we are going to have a good understanding of them.
-* Using descriptive statistics we are going to present inferences about of each traffic medium
-* In the end we will present a clear conclusion section that presents the main differences & patterns of each traffic medium and find a hypothesis to be tested in further projects to improve the user experience in ecommerce. 
+* I built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
+* The data was extracted using the **Google Analytics API**. and splitted based on the traffic medium of the website. 
+* With the analysis we are able to recognize patterns and differences between the traffic mediums.
+* Also find a hypotese to be teste.Maybe the Android users that are New Visitor are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
+* The code was recently commented on Kaggle and the code needs a adjustments.
+
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
@@ -83,6 +83,13 @@ The projects are the following:
 <br/>
 <br/>
 ### **Data Cleaning - Price Predictor - Brasília Apartments**
+
+* I **Scraped** over 3000 apartments for sale from the Vila Real website using **BeautifulSoup** and **Selenium**.
+Spend a few steps in Feature engineering with Pandas.
+* I created a pipeline that also tuned the parameters based on a cross validation using **Grid Search**
+* The **pipeline** also tested the **Regression Algorithms Lasso (l1), Kernel Ridge (l2), Elastic NNet, Xgb Regressor or Lgbm Regressor.** 
+* The model chosen by the pipeline was XGBRegressor and achieved Rˆ2 - 0.83 in the data set test
+
 
 * Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
 * **Scraped** over 3000 apartments for sale from Vila Real using **Python** and **Selenium**
@@ -103,6 +110,7 @@ The projects are the following:
 * Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample** and **Tomek Links**. 
 * Then, the main function was built  that tested all these variations into three different classification algos: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * Using **Hyperopt** i will tune the best model found by the previous function of each traffic medium and plot the feature importance and the best decision tree.
+* The code was recently commented on Kaggle and the code needs a adjustments.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
