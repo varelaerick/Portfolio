@@ -68,12 +68,6 @@ Spend a few steps in Feature engineering with Pandas.
 * I created a pipeline that also tuned the parameters based on a cross validation using **Grid Search**
 * The **pipeline** also tested the **Regression Algorithms Lasso (l1), Kernel Ridge (l2), Elastic NNet, Xgb Regressor or Lgbm Regressor.** 
 * The model chosen by the pipeline was XGBRegressor and achieved Rˆ2 - 0.83 in the data set test
-
-
-* Created a predictor that estimates the Brasilia apartments prices to help buyers and sellers to deal
-* **Scraped** over 3000 apartments for sale from Vila Real using **Python** and **Selenium**
-* Engineered features from the address filled by the sellers, to get the address, neighborhood and the AR (administrative region) correctly returned by the **Correios API**.
-* Built a pipeline that optimized **Lasso, KernelRidge, Elastic Net, XGBRegressor** and **LGBRegressor** using **GridsearchCV** to reach the best model.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Price-Predictor-Bras-lia-Apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments)
@@ -82,6 +76,7 @@ Spend a few steps in Feature engineering with Pandas.
 </p>
 <br/>
 <br/>
+
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 
 * I built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
