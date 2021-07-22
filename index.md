@@ -3,7 +3,7 @@
 
 ## **About Me**
 
-In 2016 I created my first ecommerce and I had my first contact with Web Analysis. Searching how to bring more users to my website I got to know Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the b-block that started providing PPC services and Web Analysis all over Brazil. Since 2019, I am studying Data Analytics and Data Science doing projects correlated with my background experiences, looking to bring value to my business, new knowledge and great finds.
+In 2016 I created my first ecommerce and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the b-block that started providing PPC services and Web Analysis all over Brazil. Since 2019, I am studying Data Analytics and Data Science doing projects correlated with my background experiences, looking to bring value for my business, new knowledge and great finds.
 <br/>
 <br/>
 <br/>
