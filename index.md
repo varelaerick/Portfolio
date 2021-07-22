@@ -104,7 +104,7 @@ Spend a few steps in Feature engineering with Pandas.
 * Four functions were built to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
 * Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample** and **Tomek Links**. 
 * Then, the main function was built  that tested all these variations into three different classification algos: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
-* Using **Hyperopt** i will tune the best model found by the previous function of each traffic medium and plot the feature importance and the best decision tree.
+* I Used **Hyperopt** to tune the best model of each traffic medium and plot the feature importance and the best decision tree.
 * The code needs a adjustments.
 <br/>
 <br/>
