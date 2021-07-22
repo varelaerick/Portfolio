@@ -71,17 +71,6 @@ The projects are the following:
 
 <br/>
 <br/>
-#### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
-<p align="center">
-<img src="PORTF-IMG/EDA/Table.png" width="300" class=image2> 
-</p>
-<p align="center">
-<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image2>
-<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
-</p>
-
-<br/>
-<br/>
 ### **Data Cleaning - Price Predictor - Brasília Apartments**
 
 * I **Scraped** over 3000 apartments for sale from the Vila Real website using **BeautifulSoup** and **Selenium**.
@@ -101,6 +90,17 @@ Spend a few steps in Feature engineering with Pandas.
 <p align="center">
 <img src="PORTF-IMG/PP/folium-map.png" width="500" class=image1> 
 </p>
+<br/>
+<br/>
+#### [Github Repositore](https://github.com/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
+<p align="center">
+<img src="PORTF-IMG/EDA/Table.png" width="300" class=image2> 
+</p>
+<p align="center">
+<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image2>
+<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
+</p>
+
 <br/>
 <br/>
 ### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
