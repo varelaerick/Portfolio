@@ -3,22 +3,22 @@
 
 ## **About Me**
 
-In 2016 I created my first ecommerce and I had my first contact with Web Analysis. Searching how to bring more users for my website I got to know Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the b-block that started providing PPC services and Web Analysis all over Brazil. Since 2019, I am studying Data Analytics and Data Science doing projects correlated with my background experiences, looking to bring value for my business, new knowledge and great finds.
+In 2016 I created my first eCommerce and I had my first contact with Web Analysis. Searching how to bring more users to my website I got to know Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the b-block that started providing PPC services and Web Analysis all over Brazil. Since 2019, I am studying Data Analytics and Data Science, doing projects correlated with my background experiences, looking to bring value for my business, new knowledge, and great finds.
 <br/>
 <br/>
 <br/>
 
 ## **Personal Projects**
 
-In my personal projects I was always looking to bring some kind of value for my business. For that reason, most of my projects are related to websites data, predictions or insights.
+In my projects, I was always looking to bring some value to online businesses somehow. For that reason, my projects are related to websites data, predictions, or insights. 
 The projects are the following:
 <br/>
 <br/>
 
 ### **Google Ads - Search Queries Clustering**
-* I tested 4 different cluster somethings to label the **Search Queries** based on the users Online Behavior to help online businesses to reduce costs in their campaigns.
+* I tested 4 different clusters algorithms to label the **Search Queries** based on the users Online Behavior to help online businesses reduce costs in their campaigns.
 * The 4 different cluster somethings were: **K Means**, **Spectral Clustering**, **Agglomerative Clustering**, **Gaussian Mixture**.
-* Specified the number of clusters using **Silhouette Score** for each of the cluster algos.
+* Specified the number of clusters using **Silhouette Score** for each of the cluster algorithms.
 * All of the algorithms show very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
 * The project is currently being deployed in a web application.
 <br/>
@@ -38,9 +38,9 @@ The projects are the following:
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
 
 * Scraped over 3000 reviews for **Google Play Store** and **App Store** using APIs
-* Built a pipeline that Text Preprocessing to bring the reviews  to a form that is predictable and analyzable for the **Neural Network**.
+* Built a pipeline that Text Preprocessing to bring the reviews to a predictable form that could be predictable and analyzable by the **Neural Network**.
 * Built a sentiment analysis using Keras modules **Model** , **Dense**, **LSTM** **and Embedding**.
-* Finally, I built a function that applies the pipeline for text preprocessing, classifies a comment with the model and returns if the comment is **Positive**, **Negative** **or Neutral**.
+* Finally, I built a function that applies the pipeline for text preprocessing, classifies a comment with the model, and returns if the comment is **Positive**, **Negative** **or Neutral**.
 * The result reached by my model in the test data set was - Loss 0.60 - Accuracy 0.74 - Prediction 0.75 - Recall 0.73 - F1-Score 074.
 <br/>
 <br/>
@@ -65,8 +65,8 @@ The projects are the following:
 
 * I **Scraped** over 3000 apartments for sale from the Vila Real website using **BeautifulSoup** and **Selenium**.
 Spend a few steps in Feature engineering with Pandas.
-* I created a pipeline that also tuned the parameters based on a cross validation using **Grid Search**
-* The **pipeline** also tested the **Regression Algorithms Lasso (l1), Kernel Ridge (l2), Elastic NNet, Xgb Regressor or Lgbm Regressor.** 
+* I created a pipeline that also tuned the parameters based on a cross-validation using **Grid Search**
+* The **pipeline** also tested the **Regression Algorithms Lasso (l1), Kernel Ridge (l2), Elastic NNet, Xgb Regressor, or Lgbm Regressor.** 
 * The model chosen by the pipeline was XGBRegressor and achieved Rˆ2 - 0.83 in the data set test
 <br/>
 <br/>
@@ -79,11 +79,11 @@ Spend a few steps in Feature engineering with Pandas.
 
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 
-* I built an exploratory analysis to get different insights about each of the traffic mediums of ecommerce.
-* The data was extracted using the **Google Analytics API**. and splitted based on the traffic medium of the website. 
-* With the analysis we are able to recognize patterns and differences between the traffic mediums.
-* Also find a hypotese to be tested. Maybe the Android users that are New Visitor are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
-* The project was recently commented on Kaggle and the code needs a adjustments.
+* I built an exploratory analysis to get different insights about each of the traffic mediums of eCommerce.
+* The data was extracted using the **Google Analytics API**. and split based on the traffic medium of the website. 
+* With the analysis, we can recognize patterns and differences between the traffic mediums.
+* Also find a hypothesis to be tested. Maybe the Android users that are New Visitors are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
+* The project was recently commented on by Kaggle and the code needs an adjustment.
 
 <br/>
 <br/>
@@ -102,10 +102,10 @@ Spend a few steps in Feature engineering with Pandas.
 
 * **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
 * Four functions were built to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
-* Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample** and **Tomek Links**. 
-* Then, the main function was built  that tested all these variations into three different classification algos: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
+* Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample**, and **Tomek Links**. 
+* Then, the main function was built that tested all these variations into three different classification algorithms: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * I Used **Hyperopt** to tune the best model of each traffic medium and plot the feature importance and the best decision tree.
-* The code needs a adjustments.
+* The code needs adjustments.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
