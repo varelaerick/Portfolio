@@ -92,8 +92,8 @@ Spend a few steps in Feature engineering with Pandas.
 <img src="PORTF-IMG/EDA/Table.png" width="300" class=image2> 
 </p>
 <p align="center">
-<img src="PORTF-IMG/EDA/Sales Day.png" width="400" class=image2>
-<img src="PORTF-IMG/EDA/Customer Profile.png" width="400" class=image1> 
+<img src="PORTF-IMG/EDA/Sales-Day.png" width="400" class=image2>
+<img src="PORTF-IMG/EDA/Buyers-and-Non-Buyers-Behavior.png" width="400" class=image1> 
 </p>
 
 <br/>
