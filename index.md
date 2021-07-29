@@ -16,10 +16,10 @@ The projects are the following:
 <br/>
 
 ### **Google Ads - Search Queries Clustering**
-* I tested 4 different clusters algorithms to label the **Search Queries** based on the users Online Behavior to help online businesses reduce costs in their campaigns.
-* The 4 different cluster somethings were: **K Means**, **Spectral Clustering**, **Agglomerative Clustering**, **Gaussian Mixture**.
+* I tested four different clusters of algorithms to label search queries based on the user’s online behavior to help online businesses reduce costs in their campaigns.
+* The four different clusters were: **K Means**, **Spectral Clustering**, **Agglomerative Clustering**, **Gaussian Mixture**.
 * Specified the number of clusters using **Silhouette Score** for each of the cluster algorithms.
-* All of the algorithms show very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
+* All of the algorithms show a very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
 * The project is currently being deployed in a web application.
 <br/>
 <br/>
@@ -37,10 +37,10 @@ The projects are the following:
 <br/>
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
 
-* Scraped over 3000 reviews for **Google Play Store** and **App Store** using APIs
-* Built a pipeline that Text Preprocessing to bring the reviews to a predictable form that could be predictable and analyzable by the **Neural Network**.
+* Scraped over 3,000 reviews from **Google Play Store** and **App Store** using APIs
+* Built a pipeline that uses Text Preprocessing to bring the reviews to a form that is predictable and analyzable for the **Neural Network**.
 * Built a sentiment analysis using Keras modules **Model** , **Dense**, **LSTM** **and Embedding**.
-* Finally, I built a function that applies the pipeline for text preprocessing, classifies a comment with the model, and returns if the comment is **Positive**, **Negative** **or Neutral**.
+* In the end, I built a function that applies the pipeline for text preprocessing, classifies a comment with the model, and tells us if the comment is **Positive**, **Negative** **or Neutral**.
 * The result reached by my model in the test data set was - Loss 0.60 - Accuracy 0.74 - Prediction 0.75 - Recall 0.73 - F1-Score 074.
 <br/>
 <br/>
@@ -63,11 +63,11 @@ The projects are the following:
 <br/>
 ### **Data Cleaning - Price Predictor - Brasília Apartments**
 
-* I **Scraped** over 3000 apartments for sale from the Vila Real website using **BeautifulSoup** and **Selenium**.
-Spend a few steps in Feature engineering with Pandas.
+* I **scraped** over 3,000 apartments for sale from the Vila Real website using **BeautifulSoup** and **Selenium**.
+* Spend a few steps in Feature engineering with Pandas.
 * I created a pipeline that also tuned the parameters based on a cross-validation using **Grid Search**
 * The **pipeline** also tested the **Regression Algorithms Lasso (l1), Kernel Ridge (l2), Elastic NNet, Xgb Regressor, or Lgbm Regressor.** 
-* The model chosen by the pipeline was XGBRegressor and achieved Rˆ2 - 0.83 in the data set test
+* The model chosen by the pipeline was XGBRegressor and achieved Rˆ2 - 0.83 in the data set test.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Price-Predictor-Bras-lia-Apartments) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/price-prediction-brasilia-apartments)
@@ -79,11 +79,11 @@ Spend a few steps in Feature engineering with Pandas.
 
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 
-* I built an exploratory analysis to get different insights about each of the traffic mediums of eCommerce.
-* The data was extracted using the **Google Analytics API**. and split based on the traffic medium of the website. 
-* With the analysis, we can recognize patterns and differences between the traffic mediums.
-* Also find a hypothesis to be tested. Maybe the Android users that are New Visitors are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
-* The project was recently commented on by Kaggle and the code needs an adjustment.
+* I built an Exploratory Data Analysis to get different insights about each of the traffic mediums of eCommerce.
+* The data was extracted using the **Google Analytics API** and split based on the traffic medium of the website. **Google Analytics API**.
+* With the analysis, we can were able to recognize patterns and differences between the traffic mediums. 
+* Also, find a hypothesis to be tested. Android users, who are New Visitors, are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
+* The project was recently commented on Kaggle and the code needs adjustments.
 
 <br/>
 <br/>
