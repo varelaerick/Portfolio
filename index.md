@@ -10,7 +10,7 @@ In 2016, I created my first ecommerce store and had my first interaction with we
 
 ## **Personal Projects**
 
-In my projects, I was always looking to bring some value to online businesses somehow. For that reason, my projects are related to websites data, predictions, or insights. 
+I was always looking to bring some value to online businesses somehow. For that reason, my projects are related to websites data, predictions, or insights. 
 The projects are the following:
 <br/>
 <br/>
@@ -23,7 +23,9 @@ The projects are the following:
 * To see more about the application, you can what the video below or visit the website.
 <br/>
 <br/>
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXS5vDhJZN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 <br/>
 <br/>
 #### [Query-Boost.com](https://quey-boost.com/)
