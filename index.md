@@ -14,13 +14,26 @@ In my projects, I was always looking to bring some value to online businesses so
 The projects are the following:
 <br/>
 <br/>
+### **Query-Boost - Beta Version**
+* In 2021 I improved and deployed the **Google Ads - Search Queries Clustering** project.
+* I created an MVP that is currently being validated.
+* In this project I got a lot of practical experience with the creation of one start-up and programming.
+*  The main programming languages were: **Python, JavaScript, HTML, and CSS**.
+* I put in use mainly **Flask**, **My SQL**, **Heroku**, and **Google Cloud** services like **Google Analytics API**, **Google Sheets API**, **Google Login**, and more.
+* To see more about the application, you can what the video below or visit the website.
+<br/>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXS5vDhJZN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+#### [Query-Boost.com](https://quey-boost.com/)
+
 
 ### **Google Ads - Search Queries Clustering**
 * I tested four different clusters of algorithms to label search queries based on the user’s online behavior to help online businesses reduce costs in their campaigns.
 * The four different clusters were: **K Means**, **Spectral Clustering**, **Agglomerative Clustering**, **Gaussian Mixture**.
 * Specified the number of clusters using **Silhouette Score** for each of the cluster algorithms.
 * All of the algorithms show a very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
-* The project is currently being deployed in a web application.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
