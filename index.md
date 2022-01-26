@@ -3,14 +3,14 @@
 
 ## **About Me**
 
-In 2016, I created my first ecommerce store and had my first interaction with web analysis. By searching how to bring more users to my website, I got to know the ins and outs of Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the bloco-b that started providing PPC services and web analysis all over Brazil. Since 2019, I have been studying Data Analytics and Data Science doing projects that relate to my background and experiences, and am looking to bring value to my business, as well as new knowledge and great finds.
+In 2016, I created my first ecommerce store and had my first interaction with web analysis. By searching how to bring more users to my website, I got to know the ins and outs of Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the bloco-b that started providing PPC services and web analysis all over Brazil. Since 2019, I have been studying Data Analytics and Data Science doing projects that relate to my background and experiences, and am looking to bring value to make the web a better place with machine learning great finds.
 <br/>
 <br/>
 <br/>
 
 ## **Personal Projects**
 
-I was always looking to bring some value to online businesses somehow. For that reason, my projects are related to websites data, predictions, or insights. 
+I'm always looking to bring some value to online businesses somehow. For that reason, my projects are related to websites data, predictions, or insights.
 The projects are the following:
 <br/>
 <br/>
@@ -18,7 +18,7 @@ The projects are the following:
 * In 2021 I improved and deployed the **Google Ads - Search Queries Clustering** project.
 * I created an MVP that is currently being validated.
 * In this project I got a lot of practical experience with the creation of one start-up and programming.
-*  The main programming languages were: **Python, JavaScript, HTML, and CSS**.
+*  The main programming languages were: **Python, JavaScript, HTML**, and **CSS**.
 * I put in use mainly **Flask**, **My SQL**, **Heroku**, and **Google Cloud** services like **Google Analytics API**, **Google Sheets API**, **Google Login**, and more.
 * To see more about the application, you can what the video below or visit the website.
 <br/>
@@ -35,7 +35,7 @@ The projects are the following:
 * I tested four different clusters of algorithms to label search queries based on the user’s online behavior to help online businesses reduce costs in their campaigns.
 * The four different clusters were: **K Means**, **Spectral Clustering**, **Agglomerative Clustering**, **Gaussian Mixture**.
 * Specified the number of clusters using **Silhouette Score** for each of the cluster algorithms.
-* All of the algorithms show a very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
+* All of the algorithms showed very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -52,9 +52,9 @@ The projects are the following:
 <br/>
 ## **Sentiment Analyse + Deep Learn - Amazon Shopping App Reviews**
 
-* Scraped over 3,000 reviews from **Google Play Store** and **App Store** using APIs
-* Built a pipeline that uses Text Preprocessing to bring the reviews to a form that is predictable and analyzable for the **Neural Network**.
-* Built a sentiment analysis using Keras modules **Model** , **Dense**, **LSTM** **and Embedding**.
+* I Scraped over 3,000 reviews from **Google Play Store** and **App Store** using APIs
+* I Built a pipeline that uses Text Preprocessing to bring the reviews to a form that is predictable and analyzable for the **Neural Network**.
+* I also built a sentiment analysis using Keras modules **Model** , **Dense**, **LSTM** **and Embedding**.
 * In the end, I built a function that applies the pipeline for text preprocessing, classifies a comment with the model, and tells us if the comment is **Positive**, **Negative** **or Neutral**.
 * The result reached by my model in the test data set was - Loss 0.60 - Accuracy 0.74 - Prediction 0.75 - Recall 0.73 - F1-Score 074.
 <br/>
@@ -79,7 +79,7 @@ The projects are the following:
 ### **Data Cleaning - Price Predictor - Brasília Apartments**
 
 * I **scraped** over 3,000 apartments for sale from the Vila Real website using **BeautifulSoup** and **Selenium**.
-* Spend a few steps in Feature engineering with Pandas.
+* I spend a few steps in Feature engineering with Pandas.
 * I created a pipeline that also tuned the parameters based on a cross-validation using **Grid Search**
 * The **pipeline** also tested the **Regression Algorithms Lasso (l1), Kernel Ridge (l2), Elastic NNet, Xgb Regressor, or Lgbm Regressor.** 
 * The model chosen by the pipeline was XGBRegressor and achieved Rˆ2 - 0.83 in the data set test.
@@ -96,8 +96,8 @@ The projects are the following:
 
 * I built an Exploratory Data Analysis to get different insights about each of the traffic mediums of eCommerce.
 * The data was extracted using the **Google Analytics API** and split based on the traffic medium of the website. **Google Analytics API**.
-* With the analysis, we can were able to recognize patterns and differences between the traffic mediums. 
-* Also, find a hypothesis to be tested. Android users, who are New Visitors, are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
+* With the analysis, we can be able to recognize patterns and differences between the traffic mediums.  
+* Also, I found a hypothesis to be tested. That Android users, who are New Visitors, are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
 * The project was recently commented on Kaggle and the code needs adjustments.
 
 <br/>
@@ -115,12 +115,12 @@ The projects are the following:
 <br/>
 ### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
 
-* **Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
-* Four functions were built to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
-* Also was built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample**, and **Tomek Links**. 
-* Then, the main function was built that tested all these variations into three different classification algorithms: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
+* **I Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
+* I built four functions to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
+* Also, I built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample**, and **Tomek Links**. 
+* Then, the main function was buil, that tested all those variations into three different classification algorithms: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * I Used **Hyperopt** to tune the best model of each traffic medium and plot the feature importance and the best decision tree.
-* The code needs adjustments.
+* That was my first project, I learned a lot more so far and now I regret a lot of things haha.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
