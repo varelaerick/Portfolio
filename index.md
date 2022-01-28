@@ -3,7 +3,7 @@
 
 ## **About Me**
 
-In 2016, I created my first ecommerce store and had my first interaction with web analysis. By searching how to bring more users to my website, I got to know the ins and outs of Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the bloco-b that started providing PPC services and web analysis all over Brazil. Since 2019, I have been studying Data Analytics and Data Science doing projects that relate to my background and experiences, and am looking to bring value to make the web a better place with machine learning great finds.
+In 2016, I created my first ecommerce store and had my first interaction with web analysis. By searching how to bring more users to my website, I got to know the ins and outs of Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the bloco-b that started providing PPC services and web analysis all over Brazil. Since 2019, I have been studying Data Analytics and Data Science doing projects that relate to my background and experiences, and I am seeking to bring value to make the web a better place with machine learning great finds.
 <br/>
 <br/>
 <br/>
