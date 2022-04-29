@@ -3,24 +3,23 @@
 
 ## **About Me**
 
-In 2016, I created my first ecommerce store and had my first interaction with web analysis. By searching how to bring more users to my website, I got to know the ins and outs of Pay-Per-Click (PPC) advertising and I became a Google Partner specialist on it. So, I founded the Bloco-b that started providing PPC services and web analysis all over Brazil. Since 2019, I have been studying Data Analytics and Data Science doing projects that relate to my background experiences. Now I'm seeking to make web a better place with machine learning creative finds.
+In 2016, I created my first ecommerce store and had my first interaction with web analysis. By searching how to bring more users to my website, I got to know the ins and outs of Pay-Per-Click (PPC) advertising, and I became a Google Partner specialist on it. So, I founded the Bloco-b that started providing PPC services and web analysis all over Brazil. Since 2019, I have been studying Data Analytics and Data Science, doing projects related to my background experiences. Now I’m seeking to make the web a better place with machine learning creative finds.
 <br/>
 <br/>
 <br/>
 
 ## **Personal Projects**
 
-I'm always looking to bring some value to online businesses somehow. For that reason, my projects are related to websites data, predictions, or insights.
-The projects are the following:
+I’m always looking to bring some value to online businesses somehow. For that reason, my projects are related to website data, predictions, or insights. The projects are the following:
 <br/>
 <br/>
 ### **Query-Boost - Beta Version**
-* In 2021 I improved and deployed the **Google Ads - Search Queries Clustering** project.
+* In 2021, I improved and deployed the **Google Ads - Search Queries Clustering** project.
 * I created an MVP that is currently being validated.
-* In this project I got a lot of practical experience with the creation of one start-up and programming.
+* In this project, I got a lot of practical experience creating one start-up and programming.
 *  The main programming languages were: **Python, JavaScript, HTML**, and **CSS**.
 * I put in use mainly **Flask**, **My SQL**, **Heroku**, and **Google Cloud** services like **Google Analytics API**, **Google Sheets API**, **Google Login**, and more.
-* To see more about the application, you can what the video below or visit the website.
+* To see more about the application, you can watch the video below or visit the website.
 <br/>
 <br/>
 <center>
@@ -32,10 +31,10 @@ The projects are the following:
 
 
 ### **Google Ads - Search Queries Clustering**
-* I tested four different clusters of algorithms to label search queries based on the user’s online behavior to help online businesses reduce costs in their campaigns.
+* I tested four different algorithms to label search queries based on the user’s online behavior to help online businesses reduce costs in their campaigns.
 * The four different clusters were: **K Means**, **Spectral Clustering**, **Agglomerative Clustering**, **Gaussian Mixture**.
-* Specified the number of clusters using **Silhouette Score** for each of the cluster algorithms.
-* All of the algorithms showed very good results, but the most important thing was to find the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons, detailed in section 9 - The Best Choice.
+* Specified the number of clusters using **Silhouette Score** for each clustering algorithm.
+* All algorithms showed promising results, but the most important was finding the most meaningful cluster. We choose the **Gaussian Mixture** for some reasons detailed in section 9 - The Best Choice.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/GAds-Search-Queries-Clustering) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/google-ads-search-queries-clustering)
@@ -80,7 +79,7 @@ The projects are the following:
 
 * I **scraped** over 3,000 apartments for sale from the Vila Real website using **BeautifulSoup** and **Selenium**.
 * I spend a few steps in Feature engineering with Pandas.
-* I created a pipeline that also tuned the parameters based on a cross-validation using **Grid Search**
+* I created a pipeline that also tuned the parameters based on cross-validation using **Grid Search**
 * The **pipeline** also tested the **Regression Algorithms Lasso (l1), Kernel Ridge (l2), Elastic NNet, Xgb Regressor, or Lgbm Regressor.** 
 * The model chosen by the pipeline was XGBRegressor and achieved Rˆ2 - 0.83 in the data set test.
 <br/>
@@ -94,11 +93,11 @@ The projects are the following:
 
 ### **Google Analytics API - Ecommerce - Exploratory Data Analysis**
 
-* I built an Exploratory Data Analysis to get different insights about each of the traffic mediums of eCommerce.
+* I built an Exploratory Data Analysis to get different insights about each traffic medium of eCommerce.
 * The data was extracted using the **Google Analytics API** and split based on the traffic medium of the website. **Google Analytics API**.
-* With the analysis, we can be able to recognize patterns and differences between the traffic mediums.  
-* Also, I found a hypothesis to be tested. That Android users, who are New Visitors, are having problems with the page loading speed and mobile usability of the site raising the Bounce Rate of the website.
-* The project was recently commented on Kaggle and the code needs adjustments.
+* With the analysis, we can recognize patterns and differences between the traffic mediums.  
+* Also, I found a hypothesis to be tested. That Android users, who are New Visitors, are having problems with the page loading speed and mobile usability of the site raising the website's Bounce Rate.
+* A Kaggle user recently commented on the project, and the code needs adjustments.
 
 <br/>
 <br/>
@@ -116,11 +115,11 @@ The projects are the following:
 ### **Google Analytics-API - Ecommerce - Binary Classification - Transactions Predictor**
 
 * **I Tested 42 different methods** to predicate the transaction, tune the best method and plot the decision tree
-* I built four functions to split the dfs in train and test. Raw split, without zeros (without bounce rate), without outliers, without zeros and outliers.
+* I built four functions to split the dfs in train and test. Raw split, without zeros (without bounce rate), outliers, and zeros and outliers.
 * Also, I built three functions for the **Resampling Strategies**. **Random Under Sample**, **Random Over Sample**, and **Tomek Links**. 
-* Then, the main function was buil, that tested all those variations into three different classification algorithms: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
+* Then, the primary function was built, which tested all those variations into three different classification algorithms: **DecisionTreeClassifier**, **RandomForestClassifier**, **Extreme Gradient Boosting**. 
 * I Used **Hyperopt** to tune the best model of each traffic medium and plot the feature importance and the best decision tree.
-* That was my first project, I learned a lot more so far and now I regret a lot of things haha.
+* That was my first project. I learned a lot more so far, and now I regret many things, haha.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Google-Analytics-API-Ecommerce-Binary-Classification-Transactions) | [Kaggle Kernel](https://www.kaggle.com/erickvarela/ga-api-classification-ecommerce-transactions)
