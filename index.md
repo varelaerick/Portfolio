@@ -29,7 +29,8 @@ I’m always looking to bring some value to online businesses somehow. For that 
 <br/>
 #### [Query-Boost.com](https://quey-boost.com/)
 
-
+<br/>
+<br/>
 ### **A/B testing - Page Speed x Conv. Rate**
 * I elaborated and run that A/B test is to evaluate if a change in load speed also improved performance in the conversion rate.
 * I designed the experiment and chose sample statistically significant with: **Statsmodels**, **Math** and **Scipy.stats**.
