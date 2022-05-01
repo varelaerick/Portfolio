@@ -42,6 +42,7 @@ I’m always looking to bring some value to online businesses somehow. For that 
 
 <p align="center">
 <img src="PORTF-IMG/AB-Testing/distplot.png" width="400"  style="max-width: 100%;" class=image2 >
+</br>
 <img src="PORTF-IMG/AB-Testing/interception.png" width="400"  style="max-width: 100%;" class=image4 >  
 </p>
 
