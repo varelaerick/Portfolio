@@ -30,7 +30,7 @@ I’m always looking to bring some value to online businesses somehow. For that 
 #### [Query-Boost.com](https://quey-boost.com/)
 
 
-### **A/B testing - Page Speed x Conv. Rate**
+### **A/B testing - Page Speed x Conv. Rate **
 * I elaborated and run that A/B test is to evaluate if a change in load speed also improved performance in the conversion rate.
 * I designed the experiment and chose sample statistically significant with: **Statsmodels**, **Math** and **Scipy.stats**.
 * Using a sample with 1007 sessions, we reject the null hypothesis with 99% of confidence with a z-scores: -4.50 p-value: 0.0000067659
@@ -40,8 +40,8 @@ I’m always looking to bring some value to online businesses somehow. For that 
 #### [Github Repositore](https://github.com/varelaerick/A-B-testing-PageSpeed_x_Conv-Rate) 
 
 <p align="center">
-<img src="PORTF-IMG/AB-Testing/distplot.png" width="200" class=image2 >
-<img src="PORTF-IMG/AB-Testing/interception.png" width="125" class=image4 >  
+<img src="PORTF-IMG/AB-Testing/distplot.png" width="400"  class=image2 >
+<img src="PORTF-IMG/AB-Testing/interception.png" width="400"  class=image4 >  
 </p>
 
 
