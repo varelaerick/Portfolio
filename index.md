@@ -24,7 +24,8 @@ I’m always looking to bring some value to online businesses somehow. For that 
 #### [Github Repositore](https://github.com/varelaerick/A-B-testing-PageSpeed_x_Conv-Rate) 
 
 <p align="center">
-<img src="PORTF-IMG/AB-Testing/distplot.png" width="500" class=image1>
+<img src="PORTF-IMG/CL/polar-plot.png" width="200" class=image2 >
+<img src="PORTF-IMG/CL/scatter-plot.png" width="200" class=image4 >  
 </p>
 <br/>
 <br/>
