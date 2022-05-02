@@ -21,11 +21,11 @@ I’m always looking to bring some value to online businesses somehow. For that 
 * Resampling with Bootstrapping technique and plot all the results with **Plotly**
 <br/>
 <br/>
-#### [Github Repositore](https://github.com/varelaerick/A-B-testing-PageSpeed_x_Conv-Rate) 
+#### [Github Repositore](https://github.com/varelaerick/A-B-testing-PageSpeed_x_Conv-Rate) | [Kaggle Kernel](https://www.kaggle.com/code/erickvarela/a-b-testing-loading-speed-x-conv-rate)
 
 <p align="center">
 <img src="PORTF-IMG/AB-Testing/distp.png" width="200" class=image2 >
-<img src="PORTF-IMG/AB-Testing/interc.png" width="200" class=image4 >  
+<img src="PORTF-IMG/AB-Testing/interc.png" width="400" class=image4 >  
 </p>
 <br/>
 <br/>
