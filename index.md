@@ -13,6 +13,21 @@ In 2016, I created my first ecommerce store and had my first interaction with we
 I’m always looking to bring some value to online businesses somehow. For that reason, my projects are related to website data, predictions, or insights. The projects are the following:
 <br/>
 <br/>
+
+### **A/B testing - Page Speed x Conv. Rate**
+* I elaborated and run that A/B test is to evaluate if a change in load speed also improved performance in the conversion rate.
+* I designed the experiment and chose sample statistically significant with: **Statsmodels**, **Math** and **Scipy.stats**.
+* Using a sample with 1007 sessions, we reject the null hypothesis with 99% of confidence with a z-scores: -4.50 p-value: 0.0000067659
+* Resampling with Bootstrapping technique and plot all the results with **Plotly**
+<br/>
+<br/>
+#### [Github Repositore](https://github.com/varelaerick/A-B-testing-PageSpeed_x_Conv-Rate) 
+
+<p align="center">
+<img src="PORTF-IMG/AB-Testing/distplot.png" style="max-width: 100%;" class=image2 >
+</p>
+<br/>
+<br/>
 ### **Query-Boost - Beta Version**
 * In 2021, I improved and deployed the **Google Ads - Search Queries Clustering** project.
 * I created an MVP that is currently being validated.
@@ -29,20 +44,6 @@ I’m always looking to bring some value to online businesses somehow. For that 
 <br/>
 #### [Query-Boost.com](https://quey-boost.com/)
 
-<br/>
-<br/>
-### **A/B testing - Page Speed x Conv. Rate**
-* I elaborated and run that A/B test is to evaluate if a change in load speed also improved performance in the conversion rate.
-* I designed the experiment and chose sample statistically significant with: **Statsmodels**, **Math** and **Scipy.stats**.
-* Using a sample with 1007 sessions, we reject the null hypothesis with 99% of confidence with a z-scores: -4.50 p-value: 0.0000067659
-* Resampling with Bootstrapping technique and plot all the results with **Plotly**
-<br/>
-<br/>
-#### [Github Repositore](https://github.com/varelaerick/A-B-testing-PageSpeed_x_Conv-Rate) 
-
-<p align="center">
-<img src="PORTF-IMG/AB-Testing/distplot.png" style="max-width: 100%;" class=image2 >
-</p>
 <br/>
 <br/>
 
