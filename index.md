@@ -23,11 +23,10 @@ I’m always looking to bring some value to online businesses somehow. For that 
 * I also presented a few simple pieces of advice for the SEO team, using the data provided and basic sorting features using Python to optimize the marketing content efforts looking to conversion rates. 
 <br/>
 <br/>
-
 #### [Github Repositore](https://github.com/varelaerick/Web-Analysis-Predictions-with-Prophet-and-SEO-advices) | [Kaggle Kernel](https://www.kaggle.com/code/erickvarela/web-analysis-predictions-w-prophet-seo-advices)
 <p align="center">
-<img src="PORTF-IMG/AB-Testing/distp.png" width="200" class=image2 >
-<img src="PORTF-IMG/AB-Testing/interc.png" width="400" class=image4 >  
+<img src="PORTF-IMG/WA-Prophet/graph-conv-predictions.png" width="400" class=image2 >
+<img src="PORTF-IMG/WA-Prophet/graph-convrate.png" width="400" class=image4 >  
 </p>
 <br/>
 <br/>
