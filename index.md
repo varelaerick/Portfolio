@@ -13,7 +13,7 @@ In 2016, I created my first ecommerce store and had my first interaction with we
 I’m always looking to bring some value to online businesses somehow. For that reason, my projects are related to website data, predictions, or insights. The projects are the following:
 <br/>
 <br/>
-### **Organic Traffic and Conversions Predictions w/ Prophet & SEO Advices**
+### **Organic Traffic and Conversions Predictions w/ FB Prophet & SEO Advices**
 
 * I was asked about approaches to predict the following year's monthly organic traffic and conversions, considering the growth through time and seasonalities, and presenting the results for the following 12 months.
 * I fitted **Facebook** **Prophet** model with monthly data and created interactive graphs with **Plotly**.
