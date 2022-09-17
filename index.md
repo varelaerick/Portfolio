@@ -25,7 +25,7 @@ I’m always looking to bring some value to online businesses somehow. For that 
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/Web-Analysis-Predictions-with-Prophet-and-SEO-advices) | [Kaggle Kernel](https://www.kaggle.com/code/erickvarela/web-analysis-predictions-w-prophet-seo-advices)
 <p align="center">
- <img src="PORTF-IMG/WA-Prophet/graph-conv-predictions.png" width="400" class="image1">
+ <img src="PORTF-IMG/WA-Prophet/fbprophet.png" width="400" class="image1">
 </p>
 <br/>
 <br/>
