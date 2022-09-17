@@ -15,12 +15,12 @@ I’m always looking to bring some value to online businesses somehow. For that 
 <br/>
 ### **Organic Traffic and Conversions Predictions w/ Prophet & SEO Advices**
 
-* I was asked about approaches to predict the following year's monthly organic traffic and conversions, considering the growth through time and seasonalities, and present the results for the following 12 months.
-* I fitted **Facebook** **Prophet** model with monthly data and created interative graphs with **Plotly**.
-* Using a native functionality for time series **cross validation** I achived:
-  * For Organic Traffic the **MSE** for 30 days: 0.88 and **MSE** for 303 days: 1.62
-  * For Conversion the **MSE** for 30 days: 1.10 **MSE** for 303 days: 2.04
-* I also presented a few simple pieces of advices for the SEO team, using the data provided and basic sorting features using Python to optimize the marketing content efforts looking to conversion rates. 
+* I was asked about approaches to predict the following year's monthly organic traffic and conversions, considering the growth through time and seasonalities, and presenting the results for the following 12 months.
+* I fitted **Facebook** **Prophet** model with monthly data and created interactive graphs with **Plotly**.
+* Using a native functionality for time series **Cross Validation** I achieved:
+  * Organic Traffic - MSE for 30 days: 0.88 and for 303 days: 1.62
+  * Conversion - MSE for 30 days: 1.10 and for 303 days: 2.04
+* I also presented a few simple pieces of advice for the SEO team, using the data provided and basic sorting features using Python to optimize the marketing content efforts looking to conversion rates. 
 <br/>
 <br/>
 
