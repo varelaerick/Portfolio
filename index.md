@@ -13,12 +13,30 @@ In 2016, I created my first ecommerce store and had my first interaction with we
 I’m always looking to bring some value to online businesses somehow. For that reason, my projects are related to website data, predictions, or insights. The projects are the following:
 <br/>
 <br/>
+### **Organic Traffic and Conversions Predictions w/ Prophet & SEO Advices**
+
+* I was asked about approaches to predict the following year's monthly organic traffic and conversions, considering the growth through time and seasonalities, and present the results for the following 12 months.
+* I fitted **Facebook** **Prophet** model with monthly data and created interative graphs with **Plotly**.
+* Using a native functionality for time series **cross validation** I achived:
+  * For Organic Traffic the **MSE** for 30 days: 0.88 and **MSE** for 303 days: 1.62
+  * For Conversion the **MSE** for 30 days: 1.10 **MSE** for 303 days: 2.04
+* I also presented a few simple pieces of advices for the SEO team, using the data provided and basic sorting features using Python to optimize the marketing content efforts looking to conversion rates. 
+<br/>
+<br/>
+
+#### [Github Repositore](https://github.com/varelaerick/Web-Analysis-Predictions-with-Prophet-and-SEO-advices) | [Kaggle Kernel](https://www.kaggle.com/code/erickvarela/web-analysis-predictions-w-prophet-seo-advices)
+<p align="center">
+<img src="PORTF-IMG/AB-Testing/distp.png" width="200" class=image2 >
+<img src="PORTF-IMG/AB-Testing/interc.png" width="400" class=image4 >  
+</p>
+<br/>
+<br/>
 
 ### **A/B testing - Page Speed x Conv. Rate**
 * I elaborated and run the A/B test is to evaluate if a change in load speed also improved performance in the conversion rate.
 * I designed the experiment and chose sample statistically significant with: **Statsmodels**, **Math** and **Scipy.stats**.
 * Using a sample with 1007 sessions, we reject the null hypothesis with 99% of confidence with a z-scores: -4.50 p-value: 0.0000067659
-* I Resampled with Bootstrapping technique and plot all the results with Plotly
+* I Resampled with Bootstrapping technique and plot all the results with **Plotly**.
 <br/>
 <br/>
 #### [Github Repositore](https://github.com/varelaerick/A-B-testing-PageSpeed_x_Conv-Rate) | [Kaggle Kernel](https://www.kaggle.com/code/erickvarela/a-b-testing-loading-speed-x-conv-rate)
